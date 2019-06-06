@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 15 08:49:53 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-0bf1-773f-0000143d9580 
+on database directory memory:C:\DEV_NOVO\HCPA\workpace_padrao\backendninja\sample with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/HCPA/repositorio/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_51-b16
+user.dir=C:\DEV_NOVO\HCPA\workpace_padrao\backendninja
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
